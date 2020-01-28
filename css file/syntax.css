@@ -8,14 +8,18 @@
 
 /*Style all P tags */
 
-body{
+#main-content p{
     color: red;
 }
 
-div{
-    color: blue;
+p{
+    color: black;
 }
 
-p{
+.test{
+    color: green;
+}
+
+strong{
     color: green;
 }
