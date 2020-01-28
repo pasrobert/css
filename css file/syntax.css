@@ -8,9 +8,6 @@
 
 /*Style all P tags */
 
-p, span, a, li{
+#sub-content p{
     color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
 }
