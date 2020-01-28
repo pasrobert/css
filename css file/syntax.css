@@ -1,5 +1,21 @@
 
+/********************
+*
+*Author: Robert
+*Date: 28.01.2020
+*********************/
+
+
+/*Style all P tags */
 p{
     font-size: 18px;
     color: blue;
+}
+
+#header p {
+    font-size: 24px;
+}
+
+h1{
+    font-size: 44px;
 }
