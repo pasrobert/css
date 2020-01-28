@@ -7,15 +7,10 @@
 
 
 /*Style all P tags */
-
-span[class~="deck"]{
-    color: purple;
+a:hover{
+    color: red;
 }
 
-div[id]{
-    background: grey;
-}
-
-a[href^="http"]{
-    color: pink;
+#main-content:hover{
+    background: green;
 }
